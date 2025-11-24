@@ -53,7 +53,7 @@ Simulation work, statistical inference, and reliability methods coded in R.
 ---
 
 ##  Interests
-- Machine Learning in Healthcare  
+- Machine Learning  
 - System & Software Reliability  
 - Data Visualization & Analytics  
 - Academic Research & Teaching  
