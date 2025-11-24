@@ -43,6 +43,9 @@ I enjoy building ML projects, analyzing health data, and developing simulation m
 ### **Heart Disease Risk Prediction**
 Machine learning model using Logistic Regression & Random Forest with full EDA, feature importance, and preprocessing pipeline.  
 
+### ** Retail Sales SQL Analytics Project
+Advanced SQL analytics project using a retail dataset.Includes Joins,aggrigations,window functions,revenue analysis,customer ranking and business insights using SQLite and Google Colab
+
 
 ### **Cardio Fitness Data Analysis**
 Comprehensive EDA and insights using a health & fitness dataset.
