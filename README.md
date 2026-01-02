@@ -4,7 +4,7 @@
 **Post bachelor certificate in Data Science **
  — Southern Illinois University Edwardsville (SIUE)  
 **Graduate Research Assistant (CGA Award Recipient)**  
-**Teaching Assistant   
+**Research and Teaching Assistant   
 **Data Science | Machine Learning | Reliability Analysis | Python | R | SQL**
 
 ---
